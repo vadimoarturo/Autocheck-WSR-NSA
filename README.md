@@ -1,4 +1,4 @@
-# Lab104
+# VadimoArturo for LAB104
 ### Automatic data collection for championships and other events that are held according to the methodology of WorldSkills assignments. Linux and Windows scripts can be run from anywhere, the main thing is to have access to ESXi. Cisco has 2 versions of the script, 1 is launched from the topology from PC1, 2 is connected to the console server
 ## Getting Started
 1. Clone repo `git clone https://github.com/vadimoarturo/autocheck.git`
