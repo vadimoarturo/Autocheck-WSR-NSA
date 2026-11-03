@@ -28,4 +28,4 @@ Before using these scripts in a new environment, review device commands, supply 
 
 Vadim Burukhin — Senior Backend Developer with a background in systems and network engineering.
 
-For more recent software architecture and product case studies, see my [public engineering portfolio](https://github.com/vadimoarturo/Best-README-Template).
+For more recent software architecture and product case studies, see my [public engineering portfolio](https://github.com/vadimoarturo).
